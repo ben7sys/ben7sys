@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on my dotfiles
+- 🌱 I’m currently learning debian
+- 👯 I’m looking to collaborate on eco mining systems
+- 🤔 I’m looking for help with eco mining systems
+- 💬 Ask me about eco mining systems
+- 📫 How to reach me: x
+- ⚡ Fun fact: i love well-made rice
