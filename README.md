@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about eco mining systems
 - 📫 How to reach me: x
 - ⚡ Fun fact: i love well-made rice
+
+🚀 Technology enthusiast exploring the intersections of 🔧 system administration, 💡 programming, creative problem solving, future technologies, and 🤖 automation. Committed to 💎 ethical standards and continuous 🌱 growth. In my spare time, I enjoy ⚽ sports and 🎮 games.
