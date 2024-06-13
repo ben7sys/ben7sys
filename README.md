@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on my beautful projects
-- 🌱 I’m currently learning everything
+- 🔭 I’m currently working on interessting stuff...
+- 🌱 I’m currently learning everything...
 - 📫 How to reach me: x
 - ⚡ Fun fact: i love well-made rice
 
