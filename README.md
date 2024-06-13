@@ -15,11 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on my dotfiles
-- 🌱 I’m currently learning debian
-- 👯 I’m looking to collaborate on eco mining systems
-- 🤔 I’m looking for help with eco mining systems
-- 💬 Ask me about eco mining systems
+- 🔭 I’m currently working on my beautful projects
+- 🌱 I’m currently learning everything
 - 📫 How to reach me: x
 - ⚡ Fun fact: i love well-made rice
 
