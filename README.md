@@ -3,7 +3,7 @@
 <!--
 **ben7sys/ben7sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Hi there, 
+
 i am a 🚀 passionate technology enthusiast at the crossroads of 🖥️ system administration, creative problem-solving, future technologies, and ⚙️ automation. I am dedicated to upholding 💎 ethical standards and fostering continuous 🌱 personal growth. In my free time, I enjoy staying active with ⚽ sports and unwinding with 🎮 gaming adventures.
 
 - 🔭 Current Projects: Enhancing my skills and knowledge while effectively managing ongoing responsibilities.
